@@ -1,0 +1,17 @@
+using System;
+
+public class Demographics
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine("Student ID: 24921207");
+        Console.WriteLine("Full Name: Jedrick Matthew Jamisola");
+        Console.WriteLine("Nick Name: Jami");
+        Console.WriteLine("Gender: Male");
+        Console.WriteLine("Year Level: 2nd Year");
+        Console.WriteLine("Home Location: Labangon Cebu City");
+        Console.WriteLine("Course: Computer Science");
+        Console.WriteLine("Mobile Number: 09287017818");
+        Console.WriteLine("Personal Email: jamisola.jedrick23@gmail.com");
+    }
+}
